@@ -1,5 +1,5 @@
 Hi, I'm Thomas!
-I'm 16 and from Australia.
+I'm 17 and from Australia.
 
 [Check out my website!](https://thomasluigi07.com/)
 
