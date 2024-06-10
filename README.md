@@ -1,8 +1,9 @@
-Hi, I'm Thomas!
-I'm 17 and from Australia.
+Hi, I'm Thomas G, also known as Thomasluigi07!
+I'm 17 and from Sydney, Australia.
 
-[Check out my website!](https://thomasluigi07.com/)
+I used to make Roblox games, but now I make applications and websites (rarely). I also like using Skeuomorphic design for most of my projects, because I think it looks cool.
 
-I used to make Roblox games, but i still make applications and websites. I also like using Skeuomorphic design for most of my projects, because I like that kind of design.
+I'd say I'm pretty good at coding with Lua, HTML and CSS. My Javascript, PHP, Swift, Objective-C, C# or Shell Scripts skills are very limited, so I don't make many things with them.
 
-I mainly code in HTML, CSS and C#. I also know a little bit of Javascript, Objective-C, PHP and Swift, but I'm still learning it.
+
+[![https://thomasluigi07.com/](https://raw.githubusercontent.com/Thomasluigi07/Thomasluigi07/master/awesomessddfs.png)](https://thomasluigi07.com)
