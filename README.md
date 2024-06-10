@@ -7,3 +7,4 @@ I'd say I'm pretty good at coding with Lua, HTML and CSS. My Javascript, PHP, Sw
 
 
 [![https://thomasluigi07.com/](https://raw.githubusercontent.com/Thomasluigi07/Thomasluigi07/master/awesomessddfs.png)](https://thomasluigi07.com)
+Don't listen to Toad.
