@@ -6,5 +6,5 @@ I used to make Roblox games, but now I make applications and websites (rarely). 
 I'd say I'm pretty good at coding with Lua, HTML and CSS. My Javascript, PHP, Swift, Objective-C, C# or Shell Scripts skills are very limited, so I don't make many things with them.
 
 
-[![https://thomasluigi07.com/](https://raw.githubusercontent.com/Thomasluigi07/Thomasluigi07/master/awesomessddfs.png)](https://thomasluigi07.com)
+[![https://thomasluigi07.com/](https://raw.githubusercontent.com/Thomasluigi07/Thomasluigi07/master/githubtracker.png)](https://thomasluigi07.com)
 Don't listen to Toad.
