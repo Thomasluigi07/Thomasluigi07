@@ -1,4 +1,4 @@
-Hi, I'm Thomas G, also known as Thomasluigi07. I'm 18. Wow.
+Hi, I'm Thomas G, also known as Thomasluigi07. I'm 19. Wow.
 
 I used to make Roblox games, but I make other stuff now. I also like using skeuomorphic design for pretty much all of my projects. Wow!
 
